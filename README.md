@@ -30,8 +30,8 @@ A full-stack AI research agent that helps find academic papers, search the web, 
 | Web Search | Tavily API |
 | Auth & DB | Supabase (PostgreSQL) |
 | Frontend | Vanilla HTML/CSS/JS |
-| Backend Deploy | Railway |
-| Frontend Deploy | Netlify |
+| Backend Deploy | Railway (aman11-id)|
+| Frontend Deploy | Netlify (aman11-id)|
 
 ---
 
